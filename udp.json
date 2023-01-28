@@ -1,5 +1,5 @@
 {
-  "udp": [
+  "upd": [
     {
       "flag": "ae",
       "country": "United Arab Emirates",
@@ -22,27 +22,27 @@
     },
     {
       "flag": "au",
-      "country": "Austria",
+      "country": "Australia",
       "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Adelaide-UDP.ovpn"
     },
     {
       "flag": "au",
-      "country": "Austria",
+      "country": "Australia",
       "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Brisbane-UDP.ovpn"
     },
     {
       "flag": "au",
-      "country": "Austria",
+      "country": "Australia",
       "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Melbourne-UDP.ovpn"
     },
     {
       "flag": "au",
-      "country": "Austria",
+      "country": "Australia",
       "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Perth-UDP.ovpn"
     },
     {
       "flag": "au",
-      "country": "Austria",
+      "country": "Australia",
       "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Sydney-UDP.ovpn"
     },
     {
