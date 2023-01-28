@@ -1,0 +1,424 @@
+{
+  "upd": [
+    {
+      "flag": "ae",
+      "country": "United Arab Emirates",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AE-Dubai-UDP.ovpn"
+    },
+    {
+      "flag": "al",
+      "country": "Albania",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AL-Tirana-UDP.ovpn"
+    },
+    {
+      "flag": "ar",
+      "country": "Argentina",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AR-Buenos Aires-UDP.ovpn"
+    },
+    {
+      "flag": "at",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AT-Vienna-UDP.ovpn"
+    },
+    {
+      "flag": "au",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Adelaide-UDP.ovpn"
+    },
+    {
+      "flag": "au",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Brisbane-UDP.ovpn"
+    },
+    {
+      "flag": "au",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Melbourne-UDP.ovpn"
+    },
+    {
+      "flag": "au",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Perth-UDP.ovpn"
+    },
+    {
+      "flag": "au",
+      "country": "Austria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-AU-Sydney-UDP.ovpn"
+    },
+    {
+      "flag": "be",
+      "country": "Belgium",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-BE-Brussels-UDP.ovpn"
+    },
+    {
+      "flag": "bg",
+      "country": "Bulgaria",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-BG-Sofia-UDP.ovpn"
+    },
+    {
+      "flag": "br",
+      "country": "Brazil",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-BR-Sao Paulo-UDP.ovpn"
+    },
+    {
+      "flag": "ca",
+      "country": "Canada",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CA-Montreal-UDP.ovpn"
+    },
+    {
+      "flag": "ca",
+      "country": "Canada",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CA-Toronto-UDP.ovpn"
+    },
+    {
+      "flag": "ca",
+      "country": "Canada",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CA-Vancouver-UDP.ovpn"
+    },
+    {
+      "flag": "ch",
+      "country": "Switzerland",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CH-Zurich-UDP.ovpn"
+    },
+    {
+      "flag": "cl",
+      "country": "Chile",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CL-Santiago-UDP.ovpn"
+    },
+    {
+      "flag": "co",
+      "country": "Colombia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CO-Bogota-UDP.ovpn"
+    },
+    {
+      "flag": "cr",
+      "country": "Costa Rica",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CR-San Jose-UDP.ovpn"
+    },
+    {
+      "flag": "cz",
+      "country": "Czech Republic",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-CZ-Prague-UDP.ovpn"
+    },
+    {
+      "flag": "de",
+      "country": "Germany",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-DE-Frankfurt-UDP.ovpn"
+    },
+    {
+      "flag": "dk",
+      "country": "Denmark",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-DK-Copenhagen-UDP.ovpn"
+    },
+    {
+      "flag": "ee",
+      "country": "Estonia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-EE-Tallinn-UDP.ovpn"
+    },
+    {
+      "flag": "es",
+      "country": "Spain",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-ES-Madrid-UDP.ovpn"
+    },
+    {
+      "flag": "es",
+      "country": "Spain",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-ES-Valencia-UDP.ovpn"
+    },
+    {
+      "flag": "fi",
+      "country": "Finland",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-FI-Helsinki-UDP.ovpn"
+    },
+    {
+      "flag": "fr",
+      "country": "France",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-FR-Bordeaux-UDP.ovpn"
+    },
+    {
+      "flag": "fr",
+      "country": "France",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-FR-Marseille-UDP.ovpn"
+    },
+    {
+      "flag": "fr",
+      "country": "France",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-FR-Paris-UDP.ovpn"
+    },
+    {
+      "flag": "gr",
+      "country": "Greece",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-GR-Athens-UDP.ovpn"
+    },
+    {
+      "flag": "hk",
+      "country": "Hong Kong",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-HK-Hong Kong-UDP.ovpn"
+    },
+    {
+      "flag": "hr",
+      "country": "Croatia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-HR-Zagreb-UDP.ovpn"
+    },
+    {
+      "flag": "hu",
+      "country": "Hungary",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-HU-Budapest-UDP.ovpn"
+    },
+    {
+      "flag": "ie",
+      "country": "Ireland",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-IE-Dublin-UDP.ovpn"
+    },
+    {
+      "flag": "il",
+      "country": "Israel",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-IL-Tel Aviv-UDP.ovpn"
+    },
+    {
+      "flag": "in",
+      "country": "India",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-IN-Virtual-UDP.ovpn"
+    },
+    {
+      "flag": "is",
+      "country": "Iceland",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-IS-Reykjavik-UDP.ovpn"
+    },
+    {
+      "flag": "it",
+      "country": "Italy",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-IT-Milan-UDP.ovpn"
+    },
+    {
+      "flag": "jp",
+      "country": "Japan",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-JP-Tokyo-UDP.ovpn"
+    },
+    {
+      "flag": "kr",
+      "country": "South Korea",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-KR-Seoul-UDP.ovpn"
+    },
+    {
+      "flag": "lu",
+      "country": "Luxembourg",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-LU-Luxembourg-UDP.ovpn"
+    },
+    {
+      "flag": "lv",
+      "country": "Latvia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-LV-Riga-UDP.ovpn"
+    },
+    {
+      "flag": "md",
+      "country": "Moldova",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-MD-Chisinau-UDP.ovpn"
+    },
+    {
+      "flag": "mx",
+      "country": "Mexico",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-MX-Guadalajara-UDP.ovpn"
+    },
+    {
+      "flag": "my",
+      "country": "Malaysia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-MY-Kuala Lumpur-UDP.ovpn"
+    },
+    {
+      "flag": "nl",
+      "country": "Netherlands",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-NL-Amsterdam-UDP.ovpn"
+    },
+    {
+      "flag": "no",
+      "country": "Norway",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-NO-Oslo-UDP.ovpn"
+    },
+    {
+      "flag": "nz",
+      "country": "New Zealand",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-NZ-Auckland-UDP.ovpn"
+    },
+    {
+      "flag": "pe",
+      "country": "Peru",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-PE-Lima-UDP.ovpn"
+    },
+    {
+      "flag": "pl",
+      "country": "Poland",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-PL-Warsaw-UDP.ovpn"
+    },
+    {
+      "flag": "pt",
+      "country": "Portugal",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-PT-Lisbon-UDP.ovpn"
+    },
+    {
+      "flag": "ro",
+      "country": "Romania",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-RO-Bucharest-UDP.ovpn"
+    },
+    {
+      "flag": "rs",
+      "country": "Serbia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-RS-Belgrade-UDP.ovpn"
+    },
+    {
+      "flag": "se",
+      "country": "Sweden",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-SE-Stockholm-UDP.ovpn"
+    },
+    {
+      "flag": "sg",
+      "country": "Singapore",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-SG-Singapore-UDP.ovpn"
+    },
+    {
+      "flag": "si",
+      "country": "Slovenia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-SI-Ljubljana-UDP.ovpn"
+    },
+    {
+      "flag": "sk",
+      "country": "Slovakia",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-SK-Bratislava-UDP.ovpn"
+    },
+    {
+      "flag": "tr",
+      "country": "Turkey",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-TR-Istanbul-UDP.ovpn"
+    },
+    {
+      "flag": "tw",
+      "country": "Taiwan",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-TW-Taipei-UDP.ovpn"
+    },
+    {
+      "flag": "gb",
+      "country": "United Kingdom",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-UK-Birmingham-UDP.ovpn"
+    },
+    {
+      "flag": "gb",
+      "country": "United Kingdom",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-UK-Glasgow-UDP.ovpn"
+    },
+    {
+      "flag": "gb",
+      "country": "United Kingdom",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-UK-London-UDP.ovpn"
+    },
+    {
+      "flag": "gb",
+      "country": "United Kingdom",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-UK-Manchester-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Ashburn-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Atlanta-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Boston-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Charlotte-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Chicago-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Cincinnati-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Dallas-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Denver-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Detroit-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Houston-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Las Vegas-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Los Angeles-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Miami-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Minneapolis-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-New Orleans-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-New York-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Phoenix-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-San Jose-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-Seattle-UDP.ovpn"
+    },
+    {
+      "flag": "us",
+      "country": "United States",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-US-St Louis-UDP.ovpn"
+    },
+    {
+      "flag": "za",
+      "country": "South Africa",
+      "file": "https://itify.sfo3.digitaloceanspaces.com/gamingvpn/udp/NCVPN-ZA-Johannesburg-UDP.ovpn"
+    }
+  ]
+}
